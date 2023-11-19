@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/Bujio/proyecto-blackjack/issues"
   },
-  "homepage": "https://github.com/Bujio/proyecto-blackjack#readme",
+  "homepage": "https://github.com/Bujio/proyecto-blackjack",
   "dependencies": {
     "bootstrap": "^5.3.2",
     "lodash": "^4.17.21",
