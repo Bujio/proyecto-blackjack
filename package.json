@@ -19,10 +19,13 @@
   "bugs": {
     "url": "https://github.com/Bujio/proyecto-blackjack/issues"
   },
-  "homepage": "https://github.com/Bujio/proyecto-blackjack#readme",
+  "homepage": "https://Bujio.github.io/proyecto-blackjack",
   "dependencies": {
     "bootstrap": "^5.3.2",
     "lodash": "^4.17.21",
     "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
